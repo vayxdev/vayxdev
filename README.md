@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ww93fun
+- 👋 Hi, I’m @vayxdev
 - 👀 I’m interested in Java, Concurrency, JVM, GC, FrontEnd
 - 🌱 I’m currently learning OS, Network, Golang, Rust, LLM
-- 📫 ww93fun@gmail.com
+- 📫 vayxdev@gmail.com
